@@ -1,5 +1,7 @@
 # Supply-Chain-Dashboard
 
+<img src="https://github.com/Novid-Patsham/Supply-Chain-Dashboard/blob/master/Data/Cover%20Photo.jpg" width="1200" height="500">
+
 ## Project [link](https://www.novypro.com/project/fmcg-supply-chain-dashboard-power-bi)
 
 ## ﻿About Project :
